@@ -1,0 +1,45 @@
+#topContainer{
+    height: 15vh;
+    width: 100vw;
+    background: lightgrey;
+    float: left;
+}
+#topLeft{
+    height: 7vh;
+    width: 4vw;
+    background:lightskyblue;
+    position: relative;
+    top: 4vh;
+    left: 2vh
+}
+#secondContainer{
+    height:
+}
+#textContainer{
+    height: 25vh;
+    width: 100vw;
+    background: whitesmoke;
+    padding: ;
+    text-align: justify;
+}
+#thirdContainer{
+    height: 15vh;
+    width: 100vw;
+    background: lightskyblue;
+}
+#fourthContainer{
+    height: 15vh;
+    width: 100vw;
+    background: aquamarine;
+}
+#fithContainer{
+    height: 15vh;
+    width: 100vw;
+    background:lightgoldenrodyellow;
+}
+#sixthContainer{
+    height: 15vh;
+    width: 100vw;
+    background: yellow;
+
+}
